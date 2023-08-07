@@ -9,11 +9,12 @@
 // If it's before 10PM, there's 5 pieces left. At 10PM, someone eats them
 // all, so there'll be no more left :(
 fn maybe_icecream(time_of_day: u16) -> Option<u16> {
-    // We use the 24-hour system here, so 10PM is a value of 22 and 12AM is a
-    // value of 0 The Option output should gracefully handle cases where
-    // time_of_day > 23.
-    // TODO: Complete the function body - remember to return an Option!
-    ???
+    match time_of_day {
+        1..=21 => Some(5),
+        22..=24 => Some(0),
+        0=>Some(5),
+        _ => None,
+    }
 }
 
 #[cfg(test)]
@@ -31,9 +32,10 @@ mod tests {
 
     #[test]
     fn raw_value() {
-        // TODO: Fix this test. How do you get at the value contained in the
-        // Option?
         let icecreams = maybe_icecream(12);
-        assert_eq!(icecreams, 5);
+        // We use `.unwrap()` to get the value out of the Option
+        // Be careful with `unwrap()` in real-world code, as it can panic if the Option is `None`.
+        // Here, we're sure that the value is `Some`, so it's safe to use it.
+        assert_eq!(icecreams.unwrap(), 5);
     }
 }

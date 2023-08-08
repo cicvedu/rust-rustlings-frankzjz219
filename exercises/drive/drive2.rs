@@ -12,11 +12,14 @@ struct Foo {
 }
 
 fn raw_pointer_to_box(address: usize) -> Box<Foo> {
-    // address is a pointer that points to heap.
-    // construct Box from this address, and modify Foo's b field to 
-    // the string "hello"
-}
+    // Convert the raw pointer back to a Box<Foo>
+    let mut foo_boxed = unsafe { Box::from_raw(address as *mut Foo) };
 
+    // Modify the b field of the Foo structure
+    foo_boxed.b = Some("hello".to_owned());
+
+    foo_boxed
+}
 
 #[cfg(test)]
 mod tests {

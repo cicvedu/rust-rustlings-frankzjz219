@@ -6,8 +6,13 @@
 // I AM NOT DONE
 
 fn modify_by_address(address: usize) {
-    // `address` is a memory address, there is an u32 at that address. try modify
-    // the u32's value to 0xAABBCCDD
+    // Convert the `usize` to a mutable raw pointer.
+    let ptr = address as *mut u32;
+
+    // Use an `unsafe` block to modify the data at that address.
+    unsafe {
+        *ptr = 0xAABBCCDD;
+    }
 }
 
 

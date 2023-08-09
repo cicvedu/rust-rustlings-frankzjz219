@@ -1,0 +1,1585 @@
+pa=./temp_112392_ThreadId2
+pa=./temp_112392_ThreadId8
+Hello World!
+
+✅ Successfully ran exercises/intro/intro2.rs
+intro2执行成功
+总的题目数: 100
+当前做正确的题目数: 1
+当前修改试卷耗时: 0 s
+vec1 has length 3 content `[22, 44, 66]`
+vec1 has length 4 content `[22, 44, 66, 88]`
+
+✅ Successfully ran exercises/move_semantics/move_semantics1.rs
+move_semantics1执行成功
+总的题目数: 100
+当前做正确的题目数: 2
+当前修改试卷耗时: 0 s
+pa=./temp_112392_ThreadId4
+The longest string is 'abcd'
+
+✅ Successfully ran exercises/lifetimes/lifetimes1.rs
+lifetimes1执行成功
+总的题目数: 100
+当前做正确的题目数: 3
+当前修改试卷耗时: 0 s
+pa=./temp_112392_ThreadId6
+pa=./temp_112392_ThreadId9
+Move { x: 10, y: 30 }
+Echo("hello world")
+ChangeColor(200, 255, 255)
+Quit
+
+✅ Successfully ran exercises/enums/enums2.rs
+enums2执行成功
+总的题目数: 100
+当前做正确的题目数: 4
+当前修改试卷耗时: 0 s
+
+running 3 tests
+test tests::bar_for_fuzz ... ok
+test tests::default_to_baz ... ok
+test tests::foo_for_fizz ... ok
+
+successes:
+
+successes:
+    tests::bar_for_fuzz
+    tests::default_to_baz
+    tests::foo_for_fizz
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+if2执行成功
+总的题目数: 100
+当前做正确的题目数: 5
+当前修改试卷耗时: 0 s
+pa=./temp_112392_ThreadId5
+pa=./temp_112392_ThreadId3
+
+running 2 tests
+test tests::is_bar_bar ... ok
+test tests::is_foo_bar ... ok
+
+successes:
+
+successes:
+    tests::is_bar_bar
+    tests::is_foo_bar
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+traits1执行成功
+总的题目数: 100
+当前做正确的题目数: 6
+当前修改试卷耗时: 0 s
+
+running 2 tests
+test tests::at_least_five_fruits ... ok
+test tests::at_least_three_types_of_fruits ... ok
+
+successes:
+
+successes:
+    tests::at_least_five_fruits
+    tests::at_least_three_types_of_fruits
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+hashmaps1执行成功
+总的题目数: 100
+当前做正确的题目数: 7
+当前修改试卷耗时: 0 s
+pa=./temp_112392_ThreadId7
+
+running 2 tests
+test tests::item_quantity_is_a_valid_number ... ok
+test tests::item_quantity_is_an_invalid_number ... ok
+
+successes:
+
+successes:
+    tests::item_quantity_is_a_valid_number
+    tests::item_quantity_is_an_invalid_number
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+errors2执行成功
+总的题目数: 100
+当前做正确的题目数: 8
+当前修改试卷耗时: 0 s
+pa=./temp_112392_ThreadId8
+x has the value 5
+
+✅ Successfully ran exercises/variables/variables1.rs
+variables1执行成功
+总的题目数: 100
+当前做正确的题目数: 9
+当前修改试卷耗时: 0 s
+pa=./temp_112392_ThreadId4
+The longest string is 'long string is long'
+
+✅ Successfully ran exercises/lifetimes/lifetimes2.rs
+lifetimes2执行成功
+总的题目数: 100
+当前做正确的题目数: 10
+当前修改试卷耗时: 0 s
+pa=./temp_112392_ThreadId2
+vec0 has length 0, with contents: `[]`
+vec1 has length 4, with contents `[22, 44, 66, 88]`
+
+✅ Successfully ran exercises/move_semantics/move_semantics2.rs
+move_semantics2执行成功
+总的题目数: 100
+当前做正确的题目数: 11
+当前修改试卷耗时: 0 s
+pa=./temp_112392_ThreadId6
+
+running 1 test
+test tests::test_match_message_call ... ok
+
+successes:
+
+successes:
+    tests::test_match_message_call
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+enums3执行成功
+总的题目数: 100
+当前做正确的题目数: 12
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId9
+
+running 4 tests
+test tests::crab_lives_on_beach ... ok
+test tests::unknown_animal ... ok
+test tests::gopher_lives_in_burrow ... ok
+test tests::snake_lives_in_desert ... ok
+
+successes:
+
+successes:
+    tests::crab_lives_on_beach
+    tests::gopher_lives_in_burrow
+    tests::snake_lives_in_desert
+    tests::unknown_animal
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+if3执行成功
+总的题目数: 100
+当前做正确的题目数: 13
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId7
+You now have 59 tokens.
+
+✅ Successfully ran exercises/error_handling/errors3.rs
+errors3执行成功
+总的题目数: 100
+当前做正确的题目数: 14
+当前修改试卷耗时: 1 s
+⚠️  Compiling of exercises/quiz1.rs failed! Please try again. Here's the output:
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find function `calculate_price_of_apples` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/quiz1.rs:24:18[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m24[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m    let price1 = calculate_price_of_apples(35);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
+
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find function `calculate_price_of_apples` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/quiz1.rs:25:18[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m25[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m    let price2 = calculate_price_of_apples(40);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
+
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find function `calculate_price_of_apples` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/quiz1.rs:26:18[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m26[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m    let price3 = calculate_price_of_apples(41);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
+
+[0m[1m[38;5;9merror[E0425][0m[0m[1m: cannot find function `calculate_price_of_apples` in this scope[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/quiz1.rs:27:18[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m27[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m    let price4 = calculate_price_of_apples(65);[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                 [0m[0m[1m[38;5;9m^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m [0m[0m[1m[38;5;9mnot found in this scope[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 4 previous errors[0m
+
+[0m[1mFor more information about this error, try `rustc --explain E0425`.[0m
+
+quiz1执行失败
+总的题目数: 100
+当前做正确的题目数: 14
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId5
+
+running 1 test
+test tests::is_vec_pop_eq_bar ... ok
+
+successes:
+
+successes:
+    tests::is_vec_pop_eq_bar
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+traits2执行成功
+总的题目数: 100
+当前做正确的题目数: 15
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId8
+x is not ten!
+
+✅ Successfully ran exercises/variables/variables2.rs
+variables2执行成功
+总的题目数: 100
+当前做正确的题目数: 16
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId4
+Fish Flying by Jill Smith
+
+✅ Successfully ran exercises/lifetimes/lifetimes3.rs
+lifetimes3执行成功
+总的题目数: 100
+当前做正确的题目数: 17
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId2
+vec1 has length 3 content `[22, 44, 66]`
+vec1 has length 4 content `[22, 44, 66, 88]`
+
+✅ Successfully ran exercises/move_semantics/move_semantics3.rs
+move_semantics3执行成功
+总的题目数: 100
+当前做正确的题目数: 18
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId3
+pa=./temp_112392_ThreadId6
+My current favorite color is blue
+
+✅ Successfully ran exercises/strings/strings1.rs
+strings1执行成功
+总的题目数: 100
+当前做正确的题目数: 19
+当前修改试卷耗时: 1 s
+
+running 4 tests
+test tests::at_least_five_types_of_fruits ... ok
+test tests::all_fruit_types_in_basket ... ok
+test tests::test_given_fruits_are_not_modified ... ok
+test tests::greater_than_eleven_fruits ... ok
+
+successes:
+
+successes:
+    tests::all_fruit_types_in_basket
+    tests::at_least_five_types_of_fruits
+    tests::greater_than_eleven_fruits
+    tests::test_given_fruits_are_not_modified
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+hashmaps2执行成功
+总的题目数: 100
+当前做正确的题目数: 20
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId9
+Good morning!
+Good evening!
+
+✅ Successfully ran exercises/primitive_types/primitive_types1.rs
+primitive_types1执行成功
+总的题目数: 100
+当前做正确的题目数: 21
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId8
+Number 99
+
+✅ Successfully ran exercises/variables/variables3.rs
+variables3执行成功
+总的题目数: 100
+当前做正确的题目数: 22
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId7
+
+running 1 test
+test test_creation ... ok
+
+successes:
+
+successes:
+    test_creation
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+errors4执行成功
+总的题目数: 100
+当前做正确的题目数: 23
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId5
+
+running 1 test
+test tests::is_licensing_info_the_same ... ok
+
+successes:
+
+successes:
+    tests::is_licensing_info_the_same
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+traits3执行成功
+总的题目数: 100
+当前做正确的题目数: 24
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId6
+That is a color word I know!
+
+✅ Successfully ran exercises/strings/strings2.rs
+strings2执行成功
+总的题目数: 100
+当前做正确的题目数: 25
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId2
+vec1 has length 3 content `[22, 44, 66]`
+vec1 has length 4 content `[22, 44, 66, 88]`
+
+✅ Successfully ran exercises/move_semantics/move_semantics4.rs
+move_semantics4执行成功
+总的题目数: 100
+当前做正确的题目数: 26
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId4
+
+running 1 test
+test tests::you_can_assert ... ok
+
+successes:
+
+successes:
+    tests::you_can_assert
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+tests1执行成功
+总的题目数: 100
+当前做正确的题目数: 27
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId8
+Number 3
+Number 5
+
+✅ Successfully ran exercises/variables/variables4.rs
+variables4执行成功
+总的题目数: 100
+当前做正确的题目数: 28
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId7
+output=PositiveNonzeroInteger(42)
+
+✅ Successfully ran exercises/error_handling/errors5.rs
+errors5执行成功
+总的题目数: 100
+当前做正确的题目数: 29
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId9
+Alphabetical!
+Alphabetical!
+
+✅ Successfully ran exercises/primitive_types/primitive_types2.rs
+primitive_types2执行成功
+总的题目数: 100
+当前做正确的题目数: 30
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId3
+
+running 3 tests
+test tests::validate_team_score_2 ... ok
+test tests::build_scores ... ok
+test tests::validate_team_score_1 ... ok
+
+successes:
+
+successes:
+    tests::build_scores
+    tests::validate_team_score_1
+    tests::validate_team_score_2
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+hashmaps3执行成功
+总的题目数: 100
+当前做正确的题目数: 31
+当前修改试卷耗时: 1 s
+pa=./temp_112392_ThreadId2
+
+✅ Successfully ran exercises/move_semantics/move_semantics5.rs
+move_semantics5执行成功
+总的题目数: 100
+当前做正确的题目数: 32
+当前修改试卷耗时: 1 s
+⚠️  Compiling of exercises/quiz2.rs failed! Please try again. Here's the output:
+[0m[1m[38;5;9merror[0m[0m[1m: expected identifier, found `)`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/quiz2.rs:35:34[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m35[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m    pub fn transformer(input: ???) -> ??? {[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                                 [0m[0m[1m[38;5;9m^[0m[0m [0m[0m[1m[38;5;9mexpected identifier[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: expected identifier, found `{`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mexercises/quiz2.rs:35:43[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m35[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m    pub fn transformer(input: ???) -> ??? {[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                                          [0m[0m[1m[38;5;9m^[0m[0m [0m[0m[1m[38;5;9mexpected identifier[0m
+
+[0m[1m[38;5;9merror[0m[0m[1m: aborting due to 2 previous errors[0m
+
+
+quiz2执行失败
+总的题目数: 100
+当前做正确的题目数: 32
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId5
+
+running 2 tests
+test tests::compare_license_information ... ok
+test tests::compare_license_information_backwards ... ok
+
+successes:
+
+successes:
+    tests::compare_license_information
+    tests::compare_license_information_backwards
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+traits4执行成功
+总的题目数: 100
+当前做正确的题目数: 33
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId6
+
+running 3 tests
+test tests::replace_a_string ... ok
+test tests::compose_a_string ... ok
+test tests::trim_a_string ... ok
+
+successes:
+
+successes:
+    tests::compose_a_string
+    tests::replace_a_string
+    tests::trim_a_string
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+strings3执行成功
+总的题目数: 100
+当前做正确的题目数: 34
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId4
+pa=./temp_112392_ThreadId8
+
+running 1 test
+test tests::you_can_assert_eq ... ok
+
+successes:
+
+successes:
+    tests::you_can_assert_eq
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+tests2执行成功
+总的题目数: 100
+当前做正确的题目数: 35
+当前修改试卷耗时: 2 s
+Spell a Number : T-H-R-E-E
+Number plus two is : 5
+
+✅ Successfully ran exercises/variables/variables5.rs
+variables5执行成功
+总的题目数: 100
+当前做正确的题目数: 36
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId9
+Wow, that's a big array!
+
+✅ Successfully ran exercises/primitive_types/primitive_types3.rs
+primitive_types3执行成功
+总的题目数: 100
+当前做正确的题目数: 37
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId7
+pa=./temp_112392_ThreadId2
+RUST IS GREAT!
+
+✅ Successfully ran exercises/move_semantics/move_semantics6.rs
+move_semantics6执行成功
+总的题目数: 100
+当前做正确的题目数: 38
+当前修改试卷耗时: 2 s
+
+running 4 tests
+test test::test_parse_error ... ok
+test test::test_positive ... ok
+test test::test_negative ... ok
+test test::test_zero ... ok
+
+successes:
+
+successes:
+    test::test_negative
+    test::test_parse_error
+    test::test_positive
+    test::test_zero
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+errors6执行成功
+总的题目数: 100
+当前做正确的题目数: 39
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId5
+
+✅ Successfully ran exercises/traits/traits5.rs
+traits5执行成功
+总的题目数: 100
+当前做正确的题目数: 40
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId6
+blue
+red
+hi
+rust is fun!
+nice weather
+Interpolation Station
+a
+hello there
+Happy Tuesday!
+my shift key is sticky
+
+✅ Successfully ran exercises/strings/strings4.rs
+strings4执行成功
+总的题目数: 100
+当前做正确的题目数: 41
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId8
+Number 3
+
+✅ Successfully ran exercises/variables/variables6.rs
+variables6执行成功
+总的题目数: 100
+当前做正确的题目数: 42
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId4
+
+running 2 tests
+test tests::is_false_when_odd ... ok
+test tests::is_true_when_even ... ok
+
+successes:
+
+successes:
+    tests::is_false_when_odd
+    tests::is_true_when_even
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+tests3执行成功
+总的题目数: 100
+当前做正确的题目数: 43
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId3
+
+running 2 tests
+test tests::raw_value ... ok
+test tests::check_icecream ... ok
+
+successes:
+
+successes:
+    tests::check_icecream
+    tests::raw_value
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+options1执行成功
+总的题目数: 100
+当前做正确的题目数: 44
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId9
+pa=./temp_112392_ThreadId7
+
+running 1 test
+test slice_out_of_array ... ok
+
+successes:
+
+successes:
+    slice_out_of_array
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+primitive_types4执行成功
+总的题目数: 100
+当前做正确的题目数: 45
+当前修改试卷耗时: 2 s
+
+✅ Successfully ran exercises/generics/generics1.rs
+generics1执行成功
+总的题目数: 100
+当前做正确的题目数: 46
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId2
+pa=./temp_112392_ThreadId5
+
+running 3 tests
+test tests::classic_c_structs ... ok
+test tests::tuple_structs ... ok
+test tests::unit_structs ... ok
+
+successes:
+
+successes:
+    tests::classic_c_structs
+    tests::tuple_structs
+    tests::unit_structs
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+structs1执行成功
+总的题目数: 100
+当前做正确的题目数: 47
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId8
+⚠️  Testing of exercises/quiz3.rs failed! Please try again. Here's the output:
+
+running 2 tests
+test tests::generate_alphabetic_report_card ... FAILED
+test tests::generate_numeric_report_card ... ok
+
+successes:
+
+successes:
+    tests::generate_numeric_report_card
+
+failures:
+
+---- tests::generate_alphabetic_report_card stdout ----
+thread 'tests::generate_alphabetic_report_card' panicked at 'assertion failed: `(left == right)`
+  left: `"Gary Plotter (11) - achieved a grade of 2.1"`,
+ right: `"Gary Plotter (11) - achieved a grade of A+"`', exercises/quiz3.rs:59:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+
+failures:
+    tests::generate_alphabetic_report_card
+
+test result: FAILED. 1 passed; 1 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+quiz3执行失败
+总的题目数: 100
+当前做正确的题目数: 47
+当前修改试卷耗时: 2 s
+
+✅ Successfully ran exercises/functions/functions1.rs
+functions1执行成功
+总的题目数: 100
+当前做正确的题目数: 48
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId6
+sausage!
+
+✅ Successfully ran exercises/modules/modules1.rs
+modules1执行成功
+总的题目数: 100
+当前做正确的题目数: 49
+当前修改试卷耗时: 2 s
+pa=./temp_112392_ThreadId9
+Furry McFurson is 3.5 years old.
+
+✅ Successfully ran exercises/primitive_types/primitive_types5.rs
+primitive_types5执行成功
+总的题目数: 100
+当前做正确的题目数: 50
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId4
+
+running 3 tests
+test tests::negative_height - should panic ... ok
+test tests::negative_width - should panic ... ok
+test tests::correct_width_and_height ... ok
+
+successes:
+
+---- tests::negative_height stdout ----
+thread 'tests::negative_height' panicked at 'Rectangle width and height cannot be negative!', exercises/tests/tests4.rs:19:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+---- tests::negative_width stdout ----
+thread 'tests::negative_width' panicked at 'Rectangle width and height cannot be negative!', exercises/tests/tests4.rs:19:13
+
+
+successes:
+    tests::correct_width_and_height
+    tests::negative_height
+    tests::negative_width
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s
+
+
+tests4执行成功
+总的题目数: 100
+当前做正确的题目数: 51
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId3
+
+running 2 tests
+test tests::layered_option ... ok
+test tests::simple_option ... ok
+
+successes:
+
+successes:
+    tests::layered_option
+    tests::simple_option
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+options2执行成功
+总的题目数: 100
+当前做正确的题目数: 52
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId6
+pa=./temp_112392_ThreadId7
+favorite snacks: Pear and Cucumber
+
+✅ Successfully ran exercises/modules/modules2.rs
+modules2执行成功
+总的题目数: 100
+当前做正确的题目数: 53
+当前修改试卷耗时: 3 s
+
+running 2 tests
+test tests::store_str_in_wrapper ... ok
+test tests::store_u32_in_wrapper ... ok
+
+successes:
+
+successes:
+    tests::store_str_in_wrapper
+    tests::store_u32_in_wrapper
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+generics2执行成功
+总的题目数: 100
+当前做正确的题目数: 54
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId8
+Ring! Call number 1
+Ring! Call number 2
+Ring! Call number 3
+
+✅ Successfully ran exercises/functions/functions2.rs
+functions2执行成功
+总的题目数: 100
+当前做正确的题目数: 55
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId2
+
+running 1 test
+test tests::your_order ... ok
+
+successes:
+
+successes:
+    tests::your_order
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+structs2执行成功
+总的题目数: 100
+当前做正确的题目数: 56
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId5
+
+running 6 tests
+test tests::test_list_of_results ... ok
+test tests::test_result_with_list ... ok
+test tests::test_not_divisible ... ok
+test tests::test_success ... ok
+test tests::test_divide_by_0 ... ok
+test tests::test_divide_0_by_something ... ok
+
+successes:
+
+successes:
+    tests::test_divide_0_by_something
+    tests::test_divide_by_0
+    tests::test_list_of_results
+    tests::test_not_divisible
+    tests::test_result_with_list
+    tests::test_success
+
+test result: ok. 6 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+iterators3执行成功
+总的题目数: 100
+当前做正确的题目数: 57
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId4
+
+✅ Successfully ran exercises/iterators/iterators1.rs
+iterators1执行成功
+总的题目数: 100
+当前做正确的题目数: 58
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId3
+Co-ordinates are 100,200 
+
+✅ Successfully ran exercises/options/options3.rs
+options3执行成功
+总的题目数: 100
+当前做正确的题目数: 59
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId8
+Ring! Call number 1
+Ring! Call number 2
+Ring! Call number 3
+Ring! Call number 4
+Ring! Call number 5
+Ring! Call number 6
+Ring! Call number 7
+Ring! Call number 8
+Ring! Call number 9
+
+✅ Successfully ran exercises/functions/functions3.rs
+functions3执行成功
+总的题目数: 100
+当前做正确的题目数: 60
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId9
+
+running 1 test
+test indexing_tuple ... ok
+
+successes:
+
+successes:
+    indexing_tuple
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+primitive_types6执行成功
+总的题目数: 100
+当前做正确的题目数: 61
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId6
+pa=./temp_112392_ThreadId7
+1970-01-01 00:00:00 UTC was 1691548277 seconds ago!
+
+✅ Successfully ran exercises/modules/modules3.rs
+reference count = 1
+reference count = 2
+Hi from Mercury(Sun)!
+reference count = 3
+Hi from Venus(Sun)!
+reference count = 4
+Hi from Earth(Sun)!
+reference count = 5
+Hi from Mars(Sun)!
+reference count = 6
+Hi from Jupiter(Sun)!
+reference count = 7
+Hi from Saturn(Sun)!
+reference count = 8
+Hi from Uranus(Sun)!
+reference count = 9
+Hi from Neptune(Sun)!
+reference count = 8
+reference count = 7
+reference count = 6
+reference count = 5
+reference count = 4
+reference count = 3
+reference count = 2
+reference count = 1
+
+✅ Successfully ran exercises/smart_pointers/rc1.rs
+modules3执行成功
+总的题目数: 100
+当前做正确的题目数: 62
+当前修改试卷耗时: 3 s
+rc1执行成功
+总的题目数: 100
+当前做正确的题目数: 63
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId2
+
+running 4 tests
+test tests::fail_creating_weightless_package - should panic ... ok
+test tests::create_local_package ... ok
+test tests::create_international_package ... ok
+test tests::calculate_transport_fees ... ok
+
+successes:
+
+---- tests::fail_creating_weightless_package stdout ----
+thread 'tests::fail_creating_weightless_package' panicked at 'Can not ship a weightless package.', exercises/structs/structs3.rs:22:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+
+successes:
+    tests::calculate_transport_fees
+    tests::create_international_package
+    tests::create_local_package
+    tests::fail_creating_weightless_package
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s
+
+
+structs3执行成功
+总的题目数: 100
+当前做正确的题目数: 64
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId5
+pa=./temp_112392_ThreadId8
+
+running 4 tests
+test tests::factorial_of_4 ... ok
+test tests::factorial_of_1 ... ok
+test tests::factorial_of_0 ... ok
+test tests::factorial_of_2 ... ok
+
+successes:
+
+successes:
+    tests::factorial_of_0
+    tests::factorial_of_1
+    tests::factorial_of_2
+    tests::factorial_of_4
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+iterators4执行成功
+总的题目数: 100
+当前做正确的题目数: 65
+当前修改试卷耗时: 3 s
+Your sale price is 48
+
+✅ Successfully ran exercises/functions/functions4.rs
+functions4执行成功
+总的题目数: 100
+当前做正确的题目数: 66
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId3
+
+running 2 tests
+test tests::generates_nametag_text_for_a_nonempty_name ... ok
+test tests::explains_why_generating_nametag_text_fails ... ok
+
+successes:
+
+successes:
+    tests::explains_why_generating_nametag_text_fails
+    tests::generates_nametag_text_for_a_nonempty_name
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+errors1执行成功
+总的题目数: 100
+当前做正确的题目数: 67
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId4
+
+running 4 tests
+test tests::test_iterate_into_string ... ok
+test tests::test_empty ... ok
+test tests::test_success ... ok
+test tests::test_iterate_string_vec ... ok
+
+successes:
+
+---- tests::test_iterate_into_string stdout ----
+Hello World
+
+
+successes:
+    tests::test_empty
+    tests::test_iterate_into_string
+    tests::test_iterate_string_vec
+    tests::test_success
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+iterators2执行成功
+总的题目数: 100
+当前做正确的题目数: 68
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId6
+pa=./temp_112392_ThreadId9
+
+running 1 test
+test tests::test_array_and_vec_similarity ... ok
+
+successes:
+
+successes:
+    tests::test_array_and_vec_similarity
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+vecs1执行成功
+总的题目数: 100
+当前做正确的题目数: 69
+当前修改试卷耗时: 3 s
+pa=./temp_112392_ThreadId7
+Sum of offset 7 is 612
+Sum of offset 6 is 600
+Sum of offset 3 is 663
+Sum of offset 4 is 576
+Sum of offset 0 is 624
+Sum of offset 1 is 637
+Sum of offset 2 is 650
+Sum of offset 5 is 588
+
+✅ Successfully ran exercises/smart_pointers/arc1.rs
+arc1执行成功
+总的题目数: 100
+当前做正确的题目数: 70
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId2
+Quit
+Echo
+Move
+ChangeColor
+
+✅ Successfully ran exercises/enums/enums1.rs
+enums1执行成功
+总的题目数: 100
+当前做正确的题目数: 71
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId4
+Check out my macro!
+Look at this other macro: 7777
+
+✅ Successfully ran exercises/macros/macros4.rs
+macros4执行成功
+总的题目数: 100
+当前做正确的题目数: 72
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId8
+The square of 3 is 9
+
+✅ Successfully ran exercises/functions/functions5.rs
+functions5执行成功
+总的题目数: 100
+当前做正确的题目数: 73
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId3
+Check out my macro!
+
+✅ Successfully ran exercises/macros/macros1.rs
+thread 8 is complete
+thread 3 is complete
+thread 9 is complete
+thread 2 is complete
+thread 1 is complete
+thread 0 is complete
+thread 4 is complete
+thread 6 is complete
+thread 5 is complete
+thread 7 is complete
+
+thread 0 took 250ms
+thread 1 took 250ms
+thread 2 took 250ms
+thread 3 took 250ms
+thread 4 took 251ms
+thread 5 took 251ms
+thread 6 took 250ms
+thread 7 took 250ms
+thread 8 took 250ms
+thread 9 took 250ms
+
+✅ Successfully ran exercises/threads/threads1.rs
+macros1执行成功
+总的题目数: 100
+当前做正确的题目数: 74
+当前修改试卷耗时: 4 s
+threads1执行成功
+总的题目数: 100
+当前做正确的题目数: 75
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId5
+
+running 8 tests
+test tests::count_collection_complete ... ok
+test tests::count_none ... ok
+test tests::count_some ... ok
+test tests::count_collection_some ... ok
+test tests::count_collection_equals_for ... ok
+test tests::count_collection_none ... ok
+test tests::count_complete ... ok
+test tests::count_complete_equals_for ... ok
+
+successes:
+
+successes:
+    tests::count_collection_complete
+    tests::count_collection_equals_for
+    tests::count_collection_none
+    tests::count_collection_some
+    tests::count_complete
+    tests::count_complete_equals_for
+    tests::count_none
+    tests::count_some
+
+test result: ok. 8 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+iterators5执行成功
+总的题目数: 100
+当前做正确的题目数: 76
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId7
+
+running 4 tests
+test tests::owned_no_mutation ... ok
+test tests::reference_mutation ... ok
+test tests::reference_no_mutation ... ok
+test tests::owned_mutation ... ok
+
+successes:
+
+successes:
+    tests::owned_mutation
+    tests::owned_no_mutation
+    tests::reference_mutation
+    tests::reference_no_mutation
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+cow1执行成功
+总的题目数: 100
+当前做正确的题目数: 77
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId3
+Check out my macro!
+
+✅ Successfully ran exercises/macros/macros2.rs
+macros2执行成功
+总的题目数: 100
+当前做正确的题目数: 78
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId9
+
+running 2 tests
+test tests::test_vec_map ... ok
+test tests::test_vec_loop ... ok
+
+successes:
+
+successes:
+    tests::test_vec_loop
+    tests::test_vec_map
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s
+
+
+vecs2执行成功
+总的题目数: 100
+当前做正确的题目数: 79
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId8
+
+running 2 tests
+test tests::ten_is_bigger_than_eight ... ok
+test tests::fortytwo_is_bigger_than_thirtytwo ... ok
+
+successes:
+
+successes:
+    tests::fortytwo_is_bigger_than_thirtytwo
+    tests::ten_is_bigger_than_eight
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+if1执行成功
+总的题目数: 100
+当前做正确的题目数: 80
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId6
+pa=./temp_112392_ThreadId3
+Check out my macro!
+
+✅ Successfully ran exercises/macros/macros3.rs
+macros3执行成功
+总的题目数: 100
+当前做正确的题目数: 81
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId2
+54
+
+✅ Successfully ran exercises/clippy/clippy2.rs
+clippy2执行成功
+总的题目数: 100
+当前做正确的题目数: 82
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId5
+pa=./temp_112392_ThreadId4
+jobs completed 1
+jobs completed 10
+jobs completed 10
+jobs completed 10
+jobs completed 10
+jobs completed 10
+jobs completed 10
+jobs completed 10
+jobs completed 10
+jobs completed 10
+
+✅ Successfully ran exercises/threads/threads2.rs
+threads2执行成功
+总的题目数: 100
+当前做正确的题目数: 83
+当前修改试卷耗时: 4 s
+The area of a circle with radius 5.00 is 78.53982!
+
+✅ Successfully ran exercises/clippy/clippy1.rs
+clippy1执行成功
+总的题目数: 100
+当前做正确的题目数: 84
+当前修改试卷耗时: 4 s
+
+running 2 tests
+test tests::test_create_non_empty_list ... ok
+test tests::test_create_empty_list ... ok
+
+successes:
+
+successes:
+    tests::test_create_empty_list
+    tests::test_create_non_empty_list
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s
+
+
+box1执行成功
+总的题目数: 100
+当前做正确的题目数: 85
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId7
+
+running 1 test
+test tests::returns_proper_type_and_value ... ok
+
+successes:
+
+successes:
+    tests::returns_proper_type_and_value
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+using_as执行成功
+总的题目数: 100
+当前做正确的题目数: 86
+当前修改试卷耗时: 4 s
+pa=./temp_112392_ThreadId9
+pa=./temp_112392_ThreadId8
+
+running 10 tests
+test tests::missing_name ... ok
+test tests::invalid_age ... ok
+test tests::missing_comma_and_age ... ok
+test tests::missing_age ... ok
+test tests::missing_name_and_age ... ok
+test tests::missing_name_and_invalid_age ... ok
+test tests::trailing_comma ... ok
+test tests::trailing_comma_and_some_string ... ok
+test tests::good_input ... ok
+test tests::empty_input ... ok
+
+successes:
+
+successes:
+    tests::empty_input
+    tests::good_input
+    tests::invalid_age
+    tests::missing_age
+    tests::missing_comma_and_age
+    tests::missing_name
+    tests::missing_name_and_age
+    tests::missing_name_and_invalid_age
+    tests::trailing_comma
+    tests::trailing_comma_and_some_string
+
+test result: ok. 10 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s
+
+
+from_str执行成功
+总的题目数: 100
+当前做正确的题目数: 87
+当前修改试卷耗时: 5 s
+
+running 5 tests
+test tests::same_counts ... ok
+test tests::different_counts_using_string ... ok
+test tests::different_counts ... ok
+test tests::same_counts_using_string ... ok
+test tests::mult_box ... ok
+
+successes:
+
+successes:
+    tests::different_counts
+    tests::different_counts_using_string
+    tests::mult_box
+    tests::same_counts
+    tests::same_counts_using_string
+
+test result: ok. 5 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s
+
+
+as_ref_mut执行成功
+总的题目数: 100
+当前做正确的题目数: 88
+当前修改试卷耗时: 5 s
+pa=./temp_112392_ThreadId3
+
+running 1 test
+test tests::test_success ... ok
+
+successes:
+
+successes:
+    tests::test_success
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+drive1执行成功
+总的题目数: 100
+当前做正确的题目数: 89
+当前修改试卷耗时: 5 s
+pa=./temp_112392_ThreadId4
+pa=./temp_112392_ThreadId6
+
+running 1 test
+test tests::test_success ... ok
+
+successes:
+
+successes:
+    tests::test_success
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
+
+
+drive2执行成功
+总的题目数: 100
+当前做正确的题目数: 90
+当前修改试卷耗时: 5 s
+
+drive3执行成功
+总的题目数: 100
+当前做正确的题目数: 91
+当前修改试卷耗时: 5 s
+pa=./temp_112392_ThreadId7
+
+running 11 tests
+test tests::test_bad_convert ... ok
+test tests::test_good_convert ... ok
+test tests::test_default ... ok
+test tests::test_bad_age ... ok
+test tests::test_missing_name ... ok
+test tests::test_missing_name_and_age ... ok
+test tests::test_missing_age ... ok
+test tests::test_trailing_comma ... ok
+test tests::test_trailing_comma_and_some_string ... ok
+test tests::test_missing_name_and_invalid_age ... ok
+test tests::test_missing_comma_and_age ... ok
+
+successes:
+
+successes:
+    tests::test_bad_age
+    tests::test_bad_convert
+    tests::test_default
+    tests::test_good_convert
+    tests::test_missing_age
+    tests::test_missing_comma_and_age
+    tests::test_missing_name
+    tests::test_missing_name_and_age
+    tests::test_missing_name_and_invalid_age
+    tests::test_trailing_comma
+    tests::test_trailing_comma_and_some_string
+
+test result: ok. 11 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+from_into执行成功
+总的题目数: 100
+当前做正确的题目数: 92
+当前修改试卷耗时: 5 s
+pa=./temp_112392_ThreadId9
+
+running 14 tests
+test tests::test_array_correct ... ok
+test tests::test_slice_correct ... ok
+test tests::test_array_out_of_range_negative ... ok
+test tests::test_slice_excess_length ... ok
+test tests::test_slice_insufficient_length ... ok
+test tests::test_slice_out_of_range_negative ... ok
+test tests::test_tuple_out_of_range_positive ... ok
+test tests::test_tuple_sum ... ok
+test tests::test_array_sum ... ok
+test tests::test_array_out_of_range_positive ... ok
+test tests::test_slice_out_of_range_positive ... ok
+test tests::test_slice_sum ... ok
+test tests::test_tuple_correct ... ok
+test tests::test_tuple_out_of_range_negative ... ok
+
+successes:
+
+successes:
+    tests::test_array_correct
+    tests::test_array_out_of_range_negative
+    tests::test_array_out_of_range_positive
+    tests::test_array_sum
+    tests::test_slice_correct
+    tests::test_slice_excess_length
+    tests::test_slice_insufficient_length
+    tests::test_slice_out_of_range_negative
+    tests::test_slice_out_of_range_positive
+    tests::test_slice_sum
+    tests::test_tuple_correct
+    tests::test_tuple_out_of_range_negative
+    tests::test_tuple_out_of_range_positive
+    tests::test_tuple_sum
+
+test result: ok. 14 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+try_from_into执行成功
+总的题目数: 100
+当前做正确的题目数: 93
+当前修改试卷耗时: 5 s
+pa=./temp_112392_ThreadId2
+My array! Here it is: [-1, -2, -3, -4, -5, -6]
+This Vec is empty, see? [1]
+value a: 66; value b: 45
+
+✅ Successfully ran exercises/clippy/clippy3.rs
+clippy3执行成功
+总的题目数: 100
+当前做正确的题目数: 94
+当前修改试卷耗时: 5 s
+pa=./temp_112392_ThreadId3
+
+running 1 test
+test tests::test_success ... ok
+
+successes:
+
+successes:
+    tests::test_success
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+drive5执行成功
+总的题目数: 100
+当前做正确的题目数: 95
+当前修改试卷耗时: 5 s
+⚠️  Compiling of exercises/drive/drive4.rs failed! Please try again. Here's the output:
+    Blocking waiting for file lock on build directory
+warning: unused import: `std::env`
+ --> build.rs:1:5
+  |
+1 | use std::env;
+  |     ^^^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` on by default
+
+warning: `drive4` (build script) generated 1 warning
+   Compiling drive4 v0.0.1 (/home/frank/github-classroom/cicvedu/rust-rustlings-frankzjz219/exercises/drive)
+warning: unused import: `super::*`
+  --> drive4.rs:19:9
+   |
+19 |     use super::*;
+   |         ^^^^^^^^
+   |
+   = note: `#[warn(unused_imports)]` on by default
+
+warning: `drive4` (bin "drive4" test) generated 1 warning (run `cargo fix --bin "drive4" --tests` to apply 1 suggestion)
+    Finished test [unoptimized + debuginfo] target(s) in 0.54s
+     Running unittests drive4.rs (exercises/drive/target/debug/deps/drive4-ec9f7edded3bb614)
+error: test failed, to rerun pass `--bin drive4`
+
+drive4执行失败
+总的题目数: 100
+当前做正确的题目数: 95
+当前修改试卷耗时: 5 s
+sending 6
+Got: 6
+sending 1
+Got: 1
+sending 7
+Got: 7
+sending 2
+Got: 2
+sending 8
+Got: 8
+sending 3
+Got: 3
+sending 9
+Got: 9
+sending 4
+Got: 4
+sending 10
+sending 5
+Got: 10
+Got: 5
+total numbers received: 10
+
+✅ Successfully ran exercises/threads/threads3.rs
+threads3执行成功
+总的题目数: 100
+当前做正确的题目数: 96
+当前修改试卷耗时: 10 s
+===============================试卷批改完成,总耗时: 10 s; ==================================

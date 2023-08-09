@@ -7,4 +7,5 @@ fn main() {
 
     // 将其转换为字符串并设置为环境变量
     println!("cargo:rustc-env=TEST_FOO={}", timestamp);
+    println!("cargo:rustc-cfg=feature=\"pass\"");
 }

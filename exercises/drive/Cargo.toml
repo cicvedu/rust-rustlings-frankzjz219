@@ -5,5 +5,3 @@ edition = "2021"
 [[bin]]
 name = "drive4"
 path = "drive4.rs"
-[features]
-pass = []
